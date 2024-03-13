@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-#include <stdio.h>
-#include "list.h"
+#!/usr/bin/python3
 
 def islower(c):
-    if c is islower:
-        return(True)
-    else:
-        return(False)
+    return c.islower()
